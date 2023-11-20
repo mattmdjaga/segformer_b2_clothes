@@ -1,0 +1,7 @@
+numpy
+torch
+wandb
+evaluate
+datasets
+transformers
+albumentations
